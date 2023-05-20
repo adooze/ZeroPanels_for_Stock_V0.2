@@ -8,4 +8,4 @@ Shown are only those files, which are non-standard ZeroPanels-files. All missing
 
 As I am very poor on CAD these files are "butchered" versions of zrunchos awesome work. Please be patient with me on this point. As one major issue on this, all the parametric options got lost. If anyone can fix this, it would be appreciated a lot.
 
-This this version alpha 0.1 and has only been tested on my V0.2 right now. You use this completly on your own risk!
+This this version alpha 0.1 and has only been tested on my modified V0.2 right now. You use this completly on your own risk!
