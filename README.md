@@ -22,3 +22,5 @@ Some pictures of the early installation while upgrading my printer from V0.1 to 
 As I am very poor on CAD these files are "butchered" versions of zrunchos awesome work. Please be patient with me on this point. As one major issue on this, all the parametric options got lost. If anyone can fix this, it would be appreciated a lot.
 
 This this version alpha 0.1 and has only been tested on my modified V0.2 right now.
+
+The provided STL files are now print-in-place. Grouped STLs for the front, left and right panel are also provided. The V0 fits two groups at once.
