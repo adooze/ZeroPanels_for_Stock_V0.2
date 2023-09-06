@@ -64,4 +64,4 @@ As I am very poor on CAD these files are "butchered" versions of zrunchos awesom
 
 This this version alpha 0.1 and has only been tested on my modified V0.2 right now.
 
-Thans to zruncho and probalby-erwins-cat for their work.
+Thanks to zruncho and probalby-erwins-cat for their work.
